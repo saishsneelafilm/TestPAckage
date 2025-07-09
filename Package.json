@@ -1,0 +1,10 @@
+{
+  "name": "com.TestPack.TestPackOne",
+  "version": "1.0.0",
+  "displayName": "My Custom Package",
+  "description": "A custom package with runtime and editor scripts.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Your Name"
+  }
+}
