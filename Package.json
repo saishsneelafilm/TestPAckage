@@ -1,10 +1,11 @@
 {
-  "name": "com.testpack.testpackone",
+  "name": "com.saishsneelafilm.testpackage",
   "version": "1.0.0",
-  "displayName": "My Custom Package",
-  "description": "A custom package with runtime and editor scripts.",
-  "unity": "2020.3",
+  "displayName": "Test Package",
+  "unity": "2021.3",
+  "description": "Test package example.",
   "author": {
-    "name": "Your Name"
+    "name": "Your Name",
+    "email": "your@email.com"
   }
 }
