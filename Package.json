@@ -1,5 +1,5 @@
 {
-  "name": "com.TestPack.TestPackOne",
+  "name": "com.testpack.testpackone",
   "version": "1.0.0",
   "displayName": "My Custom Package",
   "description": "A custom package with runtime and editor scripts.",
