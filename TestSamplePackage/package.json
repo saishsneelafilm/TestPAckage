@@ -1,0 +1,11 @@
+{
+  "name": "com.saishsneelafilm.testpackage",
+  "version": "1.0.0",
+  "displayName": "Test Package",
+  "description": "A test Unity package with a MonoBehaviour script.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Saish Sawant",
+    "email": "youremail@example.com"
+  }
+}
